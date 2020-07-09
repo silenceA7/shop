@@ -1,0 +1,3 @@
+function sumT(argument) {
+	// body...
+}
